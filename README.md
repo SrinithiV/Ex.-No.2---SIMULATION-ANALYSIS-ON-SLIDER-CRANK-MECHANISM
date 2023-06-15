@@ -40,8 +40,7 @@
 ### Register Number: 212222110046
 
 ![image](https://github.com/SrinithiV/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118722030/c01e0567-a5f2-4cb3-946c-9c7d4f081b00)
-
-
+![image](https://github.com/SrinithiV/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118722030/c0bdcdc2-dc71-4e82-b9ff-52df233dc6a5)
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
